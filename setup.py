@@ -74,10 +74,10 @@ NAME = 'Pillow'
 VERSION = '1.7.6'
 PIL_VERSION = '1.1.7'
 TCL_ROOT = None
-JPEG_ROOT = None
-ZLIB_ROOT = None
-TIFF_ROOT = None
-FREETYPE_ROOT = None
+JPEG_ROOT = '/usr/lib/x86_64-linux-gnu/'
+ZLIB_ROOT = '/usr/lib/x86_64-linux-gnu/'
+TIFF_ROOT = '/usr/lib/x86_64-linux-gnu/'
+FREETYPE_ROOT = '/usr/lib/x86_64-linux-gnu/'
 LCMS_ROOT = None
 
 
